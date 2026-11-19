@@ -1,4 +1,2 @@
-#! /usr/bin/python3
-
-def hello():
-    print("Hello World")
+def add(num1, num2):
+    return num1 + num2
