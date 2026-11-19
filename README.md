@@ -1,0 +1,2 @@
+# samkcourse
+SAMK course exercises
